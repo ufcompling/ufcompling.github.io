@@ -2,23 +2,26 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="https://web.mit.edu/">MIT</a>54<br/><a href="mailto:cory.shain@gmail.com">cory.shain@gmail.com</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: profile_pic_small.jpg
+  email: >
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a post-doctoral researcher at MIT, supervised by [Ev Fedorenko](https://evlab.mit.edu/).
+I did my PhD in computational linguistics at Ohio State, where I was advised by
+[William Schuler](https://www.asc.ohio-state.edu/schuler.77/) and
+[Micha Elsner](https://u.osu.edu/elsner.14/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I use computational and experimental methods to study language and the mind, particularly
+(1) the cognitive processes that allow us to understand the things we hear and read so
+quickly, (2) the learning signals that we leverage as children to acquire language from
+the environment, and (3) the role played by real-time information processing constraints
+in shaping language learning and comprehension. I've also done some linguistic fieldwork
+in the Iyasa language of Cameroon.
