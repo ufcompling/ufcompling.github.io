@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Here are the courses I've taught. I'm happy to share materials with students or instructors. Feel free to [reach out](cory.shain@gmail.com)!
+description: Here are the courses I've taught. I'm happy to share materials with students or instructors (email/DM me)!
 nav: true
 ---
 

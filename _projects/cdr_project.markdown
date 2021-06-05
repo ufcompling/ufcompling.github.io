@@ -2,7 +2,7 @@
 layout: page
 title: CDR(NN)
 description: A regression technique for temporally diffuse effects.
-img: /assets/img/rtdbanner.png
+img: /assets/img/cdr_header.png
 importance: 1
 category: work
 github: https://github.com/coryshain/cdr
