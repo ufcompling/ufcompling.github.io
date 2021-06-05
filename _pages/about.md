@@ -23,5 +23,5 @@ I use computational and experimental methods to study language and the mind, par
 (1) the cognitive processes that allow us to understand the things we hear and read so
 quickly, (2) the learning signals that we leverage as children to acquire language from
 the environment, and (3) the role played by real-time information processing constraints
-in shaping language learning and comprehension. I've also done some linguistic fieldwork
-in the Iyasa language of Cameroon.
+in shaping language learning and comprehension. I've also done some linguistic analysis
+of Guaraní (spoken in Paraguay) and Iyasa (spoken in Cameroon).

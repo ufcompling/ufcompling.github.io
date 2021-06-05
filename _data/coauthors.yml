@@ -1,18 +1,47 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Blank":
+  - firstname: ["Idan", "I.", "I. A."]
+    url: https://www.psych.ucla.edu/faculty/page/idanblank
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Elsner":
+  - firstname: ["Micha", "M."]
+    url: https://u.osu.edu/elsner.14/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Fedorenko":
+  - firstname: ["Evelina", "Ev", "E."]
+    url: https://evlab.mit.edu/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Futrell":
+  - firstname: ["Richard", "R."]
+    url: http://socsci.uci.edu/~rfutrell/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Gibson":
+  - firstname: ["Edward", "Ted", "E."]
+    url: http://tedlab.mit.edu/
+
+"Jaffe":
+  - firstname: ["Evan", "E."]
+    url: https://www.asc.ohio-state.edu/jaffe.59/
+
+"Jin":
+  - firstname: ["Lifeng", "L."]
+    url: https://lifengjin.github.io/
+
+"Levy":
+  - firstname: ["Roger", "R.", "R. P."]
+    url: http://www.mit.edu/~rplevy/
+
+"Schuler":
+  - firstname: ["William", "W."]
+    url: https://www.asc.ohio-state.edu/schuler.77/
+
+"van Schijndel":
+  - firstname: ["Marten", "M."]
+    url: https://vansky.github.io/
+
+"von der Malsburg":
+  - firstname: ["Titus", "T."]
+    url: https://tmalsburg.github.io/
+
+"Wehbe":
+  - firstname: ["Leila", "L."]
+    url: http://www.cs.cmu.edu/~lwehbe/

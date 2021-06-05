@@ -11,7 +11,7 @@ nav: true
 
 <h4>Journal articles</h4>
 
-{% bibliography -f articles %}
+{% bibliography -f papers -q @*[section=articles]* %}
 
 </div>
 
@@ -19,7 +19,7 @@ nav: true
 
 <h4>Conference papers</h4>
 
-{% bibliography -f papers %}
+{% bibliography -f papers -q @*[section=papers]* %}
 
 </div>
 
@@ -27,6 +27,6 @@ nav: true
 
 <h4>Peer reviewed conference abstracts</h4>
 
-{% bibliography -f abstracts %}
+{% bibliography -f papers -q @*[section=abstracts]* %}
 
 </div>

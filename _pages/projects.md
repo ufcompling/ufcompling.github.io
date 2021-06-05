@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: My current and past lines of research
 nav: true
-display_categories: [work, fun]
+display_categories: [ongoing, past]
 horizontal: false
 ---
 <div class="projects">

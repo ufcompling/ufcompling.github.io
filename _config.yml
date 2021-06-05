@@ -11,7 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Cory Shain's bio, publications, teaching, and software.
 footer_text:
 
-icon: favicon.ico # the emoji used as the favicon
+icon: favicon_green.ico # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer

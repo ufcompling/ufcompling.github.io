@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Here are the courses I've taught. I'm happy to share materials with students or instructors (email/DM me)!
+description: I've taught the following courses. I'm happy to share materials with students or instructors (email/DM me)!
 nav: true
 ---
 
@@ -10,8 +10,6 @@ nav: true
 _Introduction to Linguistics_
 
 The Ohio State University. Autumn 2017, Spring 2018.
-
-I taught two semesters of Ohio State's undergraduate introduction to linguistics.
 
 ### Course description
 
