@@ -71,7 +71,6 @@ blog_name: al-folio  # your blog must have a name for it to show up in the nav b
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
-# B
 # Pagination
 pagination:
   enabled: true
@@ -91,7 +90,6 @@ collections:
     permalink: /news/:path/
   projects:
     output: true
-    B
     permalink: /projects/:path/
 
 news_limit: 5
