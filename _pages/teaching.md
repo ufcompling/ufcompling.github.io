@@ -2,16 +2,16 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: I've taught the following courses. I'm happy to share materials with students or instructors (email/DM me)!
+description: I'm happy to share materials with students or instructors (email/DM me)!
 nav: true
 ---
 
-# LING 2000
+### LING 2000
 _Introduction to Linguistics_
 
 The Ohio State University. Autumn 2017, Spring 2018.
 
-### Course description
+#### Course description
 
 The human capacity for language is one of our most astonishing traits. It allows us
 to express ideas of (in principle) infinite variety and complexity, it has no known
