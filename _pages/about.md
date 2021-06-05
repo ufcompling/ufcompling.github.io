@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://web.mit.edu/">MIT</a>54<br/><a href="mailto:cory.shain@gmail.com">cory.shain@gmail.com</a>
+description: <a href="https://bcs.mit.edu/">Brain & Cognitive Sciences, MIT</a><br/><a href="mailto:cory.shain@gmail.com">cory.shain@gmail.com</a>
 
 profile:
   align: right
