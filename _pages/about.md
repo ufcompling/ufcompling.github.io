@@ -2,7 +2,12 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://bcs.mit.edu/">Brain & Cognitive Sciences, MIT</a><br/><a href="mailto:cory.shain@gmail.com">cory.shain@gmail.com</a>
+description: >
+    <a href="https://bcs.mit.edu/">Brain & Cognitive Sciences, MIT</a>
+    <br/>
+    <a href="mailto:cory.shain@gmail.com">cory.shain@gmail.com</a>
+    <br/>
+    <a href="/assets/pdf/shain_cv_2021-06-05.pdf" style="font-weight: bold">curriculum vitae</a>
 
 profile:
   align: right
@@ -34,5 +39,3 @@ natural language processing, statistics, and (psycho)linguistics.
 
 I've also done some linguistic analysis of Guaraní (spoken in Paraguay) and Iyasa
 (spoken in Cameroon).
-
-Here's my [curriculum vitae](/assets/pdf/shain_cv_2021-06-05.pdf).
