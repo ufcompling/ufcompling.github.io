@@ -30,3 +30,19 @@ nav: true
 {% bibliography -f bibliography -q @*[section=abstracts]* %}
 
 </div>
+
+<div class="publications">
+
+<h4>Theses</h4>
+
+{% bibliography -f bibliography -q @*[section=theses]* %}
+
+</div>
+
+<div class="publications">
+
+<h4>Unpublished materials</h4>
+
+{% bibliography -f bibliography -q @*[section=unpublished]* %}
+
+</div>

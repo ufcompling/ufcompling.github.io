@@ -23,5 +23,16 @@ I use computational and experimental methods to study language and the mind, par
 (1) the cognitive processes that allow us to understand the things we hear and read so
 quickly, (2) the learning signals that we leverage as children to acquire language from
 the environment, and (3) the role played by real-time information processing constraints
-in shaping language learning and comprehension. I've also done some linguistic analysis
-of Guaraní (spoken in Paraguay) and Iyasa (spoken in Cameroon).
+in shaping language learning and comprehension.
+
+I often build [deep learning](https://en.wikipedia.org/wiki/Deep_learning) models to
+investigate these questions, and I'm actively developing
+[machine learning techniques](https://coryshain.github.io/projects/cdr_project/) to help
+scientists understand complex dynamical systems like the human mind and brain. My work
+intersects machine learning, cognitive science, neuroscience, artificial intelligence,
+natural language processing, statistics, and (psycho)linguistics.
+
+I've also done some linguistic analysis of Guaraní (spoken in Paraguay) and Iyasa
+(spoken in Cameroon).
+
+Here's my [curriculum vitae](/assets/pdf/shain_cv_2021-06-05.pdf).
