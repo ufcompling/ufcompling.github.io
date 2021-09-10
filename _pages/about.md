@@ -7,7 +7,7 @@ description: >
     <br/>
     <a href="mailto:cory.shain@gmail.com">cory.shain@gmail.com</a>
     <br/>
-    <a href="/assets/pdf/shain_cv_2021-06-05.pdf" style="font-weight: bold">curriculum vitae</a>
+    <a href="/assets/pdf/SHAIN_CV.pdf" style="font-weight: bold">curriculum vitae</a>
 
 profile:
   align: right
