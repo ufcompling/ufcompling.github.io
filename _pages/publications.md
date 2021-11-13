@@ -6,20 +6,19 @@ description:
 nav: true
 ---
 
+<div class="publications">
+
+<h4>Preprints</h4>
+
+{% bibliography -f bibliography -q @*[section=preprints]* %}
+
+</div>
 
 <div class="publications">
 
 <h4>Journal articles</h4>
 
 {% bibliography -f bibliography -q @*[section=articles]* %}
-
-</div>
-
-<div class="publications">
-
-<h4>Preprints</h4>
-
-{% bibliography -f bibliography -q @*[section=preprints]* %}
 
 </div>
 
