@@ -17,6 +17,14 @@ nav: true
 
 <div class="publications">
 
+<h4>Preprints</h4>
+
+{% bibliography -f bibliography -q @*[section=preprints]* %}
+
+</div>
+
+<div class="publications">
+
 <h4>Conference papers</h4>
 
 {% bibliography -f bibliography -q @*[section=papers]* %}
