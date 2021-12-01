@@ -11,7 +11,7 @@ description: >
 
 profile:
   align: right
-  image: profile_pic_small.jpg
+  image: 2021-11-09_SHAIN_photo_cropped_web.jpg
   email: >
 
 news: false  # includes a list of news items
