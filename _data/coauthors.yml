@@ -1,6 +1,6 @@
 "Affourtit":
   - firstname: ["Josef"]
-  - url: https://www.josefaffourtit.com/
+    url: https://www.josefaffourtit.com/
 
 "Blank":
   - firstname: ["Idan", "I.", "I. A.", "Idan A."]
@@ -8,7 +8,7 @@
 
 "Chen":
   - firstname: ["Xuanyi", "Jessica"]
-  - url: https://twitter.com/jessica_chenxy
+    url: https://twitter.com/jessica_chenxy
 
 "Elsner":
   - firstname: ["Micha", "M."]
@@ -36,7 +36,7 @@
 
 "Kean":
   - firstname: [ "Hope" ]
-  - url: http://www.mit.edu/~hopekean/
+    url: http://www.mit.edu/~hopekean/
 
 "Levy":
   - firstname: ["Roger", "R.", "R. P."]
@@ -48,11 +48,11 @@
 
 "Mollica":
   - firstname: ["Frank", "Francis"]
-  - url: https://mollicaf.github.io/
+    url: https://mollicaf.github.io/
 
 "Paunov":
   - firstname: ["Alex", "Alexander"]
-  - url: https://twitter.com/ampaunov
+    url: https://twitter.com/ampaunov
 
 "Schuler":
   - firstname: ["William", "W."]
@@ -60,7 +60,7 @@
 
 "Siegelman":
   - firstname: ["Matt", "Matthew"]
-  - url: https://psychology.columbia.edu/content/matthew-siegelman
+    url: https://psychology.columbia.edu/content/matthew-siegelman
 
 "van Schijndel":
   - firstname: ["Marten", "M."]
