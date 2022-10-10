@@ -1,0 +1,75 @@
+"Affourtit":
+  - firstname: ["Josef"]
+    url: https://www.josefaffourtit.com/
+
+"Blank":
+  - firstname: ["Idan", "I.", "I. A.", "Idan A."]
+    url: https://www.psych.ucla.edu/faculty/page/idanblank
+
+"Chen":
+  - firstname: ["Xuanyi", "Jessica"]
+    url: https://twitter.com/jessica_chenxy
+
+"Elsner":
+  - firstname: ["Micha", "M."]
+    url: https://u.osu.edu/elsner.14/
+
+"Fedorenko":
+  - firstname: ["Evelina", "Ev", "E."]
+    url: https://evlab.mit.edu/
+
+"Futrell":
+  - firstname: ["Richard", "R."]
+    url: http://socsci.uci.edu/~rfutrell/
+
+"Gibson":
+  - firstname: ["Edward", "Ted", "E."]
+    url: http://tedlab.mit.edu/
+
+"Jaffe":
+  - firstname: ["Evan", "E."]
+    url: https://www.asc.ohio-state.edu/jaffe.59/
+
+"Jin":
+  - firstname: ["Lifeng", "L."]
+    url: https://lifengjin.github.io/
+
+"Kean":
+  - firstname: [ "Hope" ]
+    url: http://www.mit.edu/~hopekean/
+
+"Levy":
+  - firstname: ["Roger", "R.", "R. P."]
+    url: http://www.mit.edu/~rplevy/
+
+"Lipkin":
+  - firstname: ["Ben", "Benjamin"]
+    url: https://benlipkin.github.io/
+
+"Mollica":
+  - firstname: ["Frank", "Francis"]
+    url: https://mollicaf.github.io/
+
+"Paunov":
+  - firstname: ["Alex", "Alexander"]
+    url: https://twitter.com/ampaunov
+
+"Schuler":
+  - firstname: ["William", "W."]
+    url: https://www.asc.ohio-state.edu/schuler.77/
+
+"Siegelman":
+  - firstname: ["Matt", "Matthew"]
+    url: https://psychology.columbia.edu/content/matthew-siegelman
+
+"van Schijndel":
+  - firstname: ["Marten", "M."]
+    url: https://vansky.github.io/
+
+"von der Malsburg":
+  - firstname: ["Titus", "T."]
+    url: https://tmalsburg.github.io/
+
+"Wehbe":
+  - firstname: ["Leila", "L."]
+    url: http://www.cs.cmu.edu/~lwehbe/
