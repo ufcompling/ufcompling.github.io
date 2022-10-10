@@ -1,6 +1,6 @@
 /******************************************************************************* Variables used throughout the theme. To adjust anything, simply edit the variables below and rebuild the theme. */
 /******************************************************************************* Themes */
-:root { --global-bg-color: #ffffff; --global-text-color: #000000; --global-theme-color: #CC5500; --global-theme-color-contrast: #2698BA; --global-theme-color-contrast2: #7bcce4; --global-theme-color-contrast3: #0076df; --global-hover-color: #CC5500; --global-footer-bg-color: #424242; --global-footer-text-color: #e8e8e8; --global-footer-link-color: #ffffff; --global-icon-color: #424242; }
+:root { --global-bg-color: #ffffff; --global-text-color: #000000; --global-theme-color: #3F51B5; --global-theme-color-contrast: #2698BA; --global-theme-color-contrast2: #7bcce4; --global-theme-color-contrast3: #0076df; --global-hover-color: #CC5500; --global-footer-bg-color: #424242; --global-footer-text-color: #e8e8e8; --global-footer-link-color: #ffffff; --global-icon-color: #424242; }
 
 :root .fa-sun { display: none; }
 
@@ -38,7 +38,7 @@ a:hover:after, table.table a:hover:after { width: 100%; }
 
 .profile { margin-left: 1rem; width: 100%; }
 
-.profile .address { margin-bottom: 5px; margin-top: 5px; font-family: monospace; font-size: 1.2rem; }
+.profile .address { margin-bottom: 5px; margin-top: 5px; font-family: sans-serif; font-size: 1.2rem; }
 
 .profile .address p { display: inline-block; margin: 0; }
 
