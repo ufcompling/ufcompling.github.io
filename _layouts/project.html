@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}
+      {% if page.github %}
+      <a href="{{ page.github }}" target="_blank"><i class="fab fa-github gh-icon"></i></a>
+      {% endif %}
+    </h1>
+    <p class="post-description">{{ page.description }}</p>
+  </header>
+
+  <article>
+    {{ content }}
+
+    <div class="publications">
+
+    <h4>Related publications</h4>
+
+    {% bibliography -f bibliography -q @*[project^=*{{page.name}}]* %}
+
+    </div>
+  </article>
+
+
+</div>
