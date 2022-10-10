@@ -13,7 +13,7 @@ html[data-theme='dark'] .fa-sun { padding-left: 10px; padding-top: 12px; display
 html[data-theme='dark'] .fa-moon { display: none; }
 
 /****************************************************************************** Content */
-body { padding-bottom: 70px; color: var(--global-text-color); background-color: var(--global-bg-color); font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; }
+body { padding-bottom: 70px; color: var(--global-text-color); background-color: var(--global-bg-color); font-family: Gill Sans; }
 
 body.fixed-top-nav { padding-top: 56px; }
 
