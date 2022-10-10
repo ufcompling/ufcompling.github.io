@@ -38,7 +38,7 @@ a:hover:after, table.table a:hover:after { width: 100%; }
 
 .profile { margin-left: 1rem; width: 100%; }
 
-.profile .address { margin-bottom: 5px; margin-top: 5px; font-family: sans-serif; font-size: 1.2rem; }
+.profile .address { margin-bottom: 5px; margin-top: 5px; font-family: Gill Sans; font-size: 1.2rem; }
 
 .profile .address p { display: inline-block; margin: 0; }
 
