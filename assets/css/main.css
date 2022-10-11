@@ -210,4 +210,15 @@ html.transition, html.transition *, html.transition *:before, html.transition *:
 
 .btn-bright-green { background-color: #11D68B; }
 
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}  
+
 /*# sourceMappingURL=main.css.map */
