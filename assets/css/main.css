@@ -216,7 +216,7 @@ html.transition, html.transition *, html.transition *:before, html.transition *:
 }
 
 .float-child {
-    width: 25%;
+    width: 50%;
     float: left;
     padding: 20px;
 }  
